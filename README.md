@@ -4,11 +4,17 @@
 Redis有哪几种数据类型？每种数据类型的底层结构是什么
 (12-03晚上12点前交
 —完成者—-
+
 长江：https://www.cnblogs.com/bruceChan0018/p/15640451.html
+
 秀强：https://blog.csdn.net/AlphaBr/article/details/105282010
+
 阿布：https://juejin.cn/post/7037339594248945677/
+
 Ma jian: 无链接
+
 飞鸿踏雪：https://juejin.cn/post/7037467615224135687
+
 田帅：https://note.youdao.com/s/3nPh78v0
 
 2021-12-04 问题
@@ -17,12 +23,19 @@ Redis如何实现一个消息队列
 既然redis可以实现队列，为什么还需要mq
 （晚上12点前交
 —-完成者—
+
 阿布：https://juejin.cn/post/7037738797211058190/
+
 长江：https://www.cnblogs.com/bruceChan0018/p/15642207.html
+
 飞鸿踏雪：https://juejin.cn/post/7037467615224135687/
+
 二栋：https://note.youdao.com/s/6nA7sdQ5
+
 田帅：https://juejin.cn/post/7037860077855834119/
+
 马健：https://www.jianshu.com/p/435c4ebe24ec
+
 秀强：https://blog.csdn.net/AlphaBr/article/details/121730812
 
 2021-12-05 问题
