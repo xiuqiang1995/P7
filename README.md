@@ -89,6 +89,8 @@ Redis分布式锁的关键命令是什么
 
 阿布：https://juejin.cn/post/7038894310997098527/
 
+秀强：https://blog.csdn.net/AlphaBr/article/details/121800898
+
 —HLL
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15659139.html
@@ -100,6 +102,8 @@ Redis分布式锁的关键命令是什么
 https://juejin.cn/post/7038879332642586632
 
 飞鸿：https://juejin.cn/post/7039326879051939870
+
+秀强：https://blog.csdn.net/AlphaBr/article/details/121800690
 
 # 2021-12-9问题
 
@@ -115,6 +119,8 @@ https://juejin.cn/post/7038879332642586632
 
 阿布：https://juejin.cn/post/7040001290771906574
 
+秀强：https://blog.csdn.net/AlphaBr/article/details/121885918
+
 
 # 2021-12-10问题
 
@@ -127,3 +133,5 @@ https://juejin.cn/post/7038879332642586632
 阿布：https://juejin.cn/post/7040350813461413924
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15678969.html
+
+秀强：https://blog.csdn.net/AlphaBr/article/details/121887161
